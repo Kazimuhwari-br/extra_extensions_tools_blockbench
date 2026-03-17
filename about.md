@@ -7,7 +7,7 @@
 		display: block; 
 		margin: 0 auto 24px; 
 		filter: drop-shadow(0 8px 22px rgba(0, 0, 0, 0.45));
-		" src="https://raw.githubusercontent.com/Kazimuhwari-br/extra_extensions_tools_blockbench_assests/main/extensions_tools_thumbnail.png"/>
+		" src="https://raw.githubusercontent.com/Kazimuhwari-br/extra_extensions_tools_blockbench/main/template/extensions_tools_thumbnail.png"/>
 	</div>
 	<div class="spacer1"></div>
 	<div id="about-content">
@@ -75,7 +75,7 @@
 				<!-- Criador -->
 				<div class="person">
 					<span class="highlight-ice-big">Criadores:</span>
-					<img src="https://raw.githubusercontent.com/Kazimuhwari-br/extra_extensions_tools_blockbench_assests/main/pfp_Kazimuhwari.png" class="person-avatar">
+					<img src="https://raw.githubusercontent.com/Kazimuhwari-br/extra_extensions_tools_blockbench/main/template/pfp_Kazimuhwari.png" class="person-avatar">
 					<p class="about-text">
 						<span class="rainbow">Kazimuhwari</span>
 					</p>
@@ -83,11 +83,11 @@
 				<!-- Testadores -->
 				<div class="person">
 					<span class="highlight-new1-big">Testadores:</span>
-					<img src="https://raw.githubusercontent.com/Kazimuhwari-br/extra_extensions_tools_blockbench_assests/main/pfp_DrehssinhahDK.png" class="person-avatar">
+					<img src="https://raw.githubusercontent.com/Kazimuhwari-br/extra_extensions_tools_blockbench/main/template/pfp_DrehssinhahDK.png" class="person-avatar">
 					<p class="about-text">
 						<span class="dreh-color">Drehssinhah DK</span>
 					</p>
-					<img src="https://raw.githubusercontent.com/Kazimuhwari-br/extra_extensions_tools_blockbench_assests/main/pfp_Default.png" class="person-avatar">
+					<img src="https://raw.githubusercontent.com/Kazimuhwari-br/extra_extensions_tools_blockbench/main/template/pfp_Default.png" class="person-avatar">
 					<p class="about-text">
 						<span class="default-color">MineBoot</span>
 					</p>
