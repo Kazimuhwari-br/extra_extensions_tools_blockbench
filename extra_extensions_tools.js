@@ -6016,7 +6016,7 @@ function generateOrganicCapsuleSurfaceFromCubes(options = {}) {
 	// ===========================
 	
 	const KazimIcons = {
-		manifest: "icons/extensions_tools_manifest.png",
+		manifest: "extensions_tools_manifest.png",
 		to_cube: "icons/to_cube.png",
 		to_mesh: "icons/to_mesh.png"
 	}
